@@ -5,4 +5,4 @@ This project makes use of NLP techniques to train models to predict different cl
 Training the models was very time consuming hence, trainned models were saved using .joblib and loaded back to be used for prediction.
 
 ## Result
-The classification output was written to a csv. Bith models and output file can be 
+The classification output was written to a csv. See uploaded files for both the trained models and the final csv output document.
